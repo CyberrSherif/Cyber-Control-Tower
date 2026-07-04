@@ -6,20 +6,6 @@ The project simulates how a Security Operations Center can monitor, analyze, cor
 
 ---
 
-## Project Screenshots
-
-Add your project UI screenshots here:
-
-```md
-<img width="952" height="440" alt="Screenshot 2026-07-04 143824" src="https://github.com/user-attachments/assets/701be5e3-2e62-449c-b4c4-0dacd04c5f96" />
-<img width="955" height="439" alt="Screenshot 2026-07-04 143916" src="https://github.com/user-attachments/assets/723f8dde-48b8-4ee8-b9bf-e0c887889fcf" />
-<img width="952" height="440" alt="Screenshot 2026-07-04 143950" src="https://github.com/user-attachments/assets/c977402f-8cce-4f92-bafb-62ca1320172f" />
-<img width="952" height="443" alt="Screenshot 2026-07-04 144029" src="https://github.com/user-attachments/assets/99ab2705-5561-49c3-b4a9-9c5eb37b207c" />
-
-```
-
----
-
 ## Main Features
 
 * Security log ingestion from a CSV dataset
